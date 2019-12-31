@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tomopy on X-Ray Science Division Coffee Talk Announcements</title>
-    <link>http://example.org/tags/tomopy/</link>
+    <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/tomopy/</link>
     <description>Recent content in tomopy on X-Ray Science Division Coffee Talk Announcements</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/tomopy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/tags/tomopy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent performance improvements to TomoPy</title>
-      <link>http://example.org/posts/post-002/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/post-002/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/post-002/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/post-002/</guid>
       <description>Abstract We will present recent performance changes related to TomoPy, an open-source Python package for tomographic data processing and image reconstruction. Notably, we have added a number of new reconstruction methods, added new benchmarking tools, and improved reconstruction speeds for various reconstruction algorithms by targeting Nvidia GPUs and specific supercomputing architectures.
 Starting in 2017, through the NERSC Exascale Science Applications Program (NESAP), we started updating the code-base to take advantage of modern compilers such as Clang and the Intel compiler; to target specific super-computing CPU architectures such as Edison, Haswell, and Knights Landing; and to utilize Nvidia GPUs through CUDA for certain tasks.</description>
     </item>

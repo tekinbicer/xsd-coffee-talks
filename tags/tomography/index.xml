@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tomography on X-Ray Science Division Coffee Talk Announcements</title>
-    <link>http://example.org/tags/tomography/</link>
+    <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/tomography/</link>
     <description>Recent content in tomography on X-Ray Science Division Coffee Talk Announcements</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/tomography/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/tags/tomography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Phase-Retrieval-Free Tomographic Alignment of Coherent Diffraction Patterns for Joint Ptycho-Tomography Problem</title>
-      <link>http://example.org/posts/post-007/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/post-007/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/post-007/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/post-007/</guid>
       <description>Abstract Ptychography is a scanning coherent diffractive imaging technique that recovers the phase of a sample’s projection using phase-retrieval algorithm. Ptychography applied in a computed tomography setting has been able to provide a reconstruction with sub-20 nm resolution representing the sample’s refractive indices. Conventionally, to achieve the highest resolution of retrieved projections and tomographic reconstruction the technique relies on object’s dense lateral (scanning) and angular (rotational) sampling, respectively. However, such an approach comes with a cost of long acquisition time, large amount of collected data, and higher computational complexity required for the reconstruction.</description>
     </item>
     
     <item>
       <title>Three-dimensional tomographic reconstruction and phase retrieval of far-field coherent diffraction patterns</title>
-      <link>http://example.org/posts/post-001/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/post-001/</link>
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/post-001/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/post-001/</guid>
       <description>Abstract An alternative numerical reconstruction algorithm for direct tomographic reconstruction of a sample’s refractive indices from the measured intensities of far-field coherent diffraction patterns will be presented. Formulation of the well-known phase-retrieval problem in ptychography in a tomographic framework which allows for simultaneous reconstruction of the illumination function and the sample’s refractive indices in three dimensions will be disscussed. Performance of proposed method with simulated and real datasets will be demonstrated.</description>
     </item>
     
     <item>
       <title>High-fidelity geometry generation from CT data using convolutional neural networks</title>
-      <link>http://example.org/posts/prev-017/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/prev-017/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/prev-017/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/prev-017/</guid>
       <description>Abstract The X-ray Fuel Spray research at Argonne National Laboratory is aimed at utilizing synchrotron X-ray diagnostics for providing insights into automotive fuel injection. One important task is to generate high-fidelity geometries or iso-surfaces of steel fuel injector nozzles from X-ray Computed Tomography measurements, to be used as inputs to realistic CFD simulations of fuel injector flow. These fuel nozzles contain 3D features between 5 - 500 micron and are imaged at a pixel resolution of 1 micron.</description>
     </item>
     

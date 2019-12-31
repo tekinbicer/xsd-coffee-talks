@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>xrf on X-Ray Science Division Coffee Talk Announcements</title>
-    <link>http://example.org/tags/xrf/</link>
+    <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/xrf/</link>
     <description>Recent content in xrf on X-Ray Science Division Coffee Talk Announcements</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/xrf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/tags/xrf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exceptional fossils: feathers, soft tissues, and ancient molecules</title>
-      <link>http://example.org/posts/prev-016/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/prev-016/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/prev-016/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/prev-016/</guid>
       <description>Abstract Within the last two to three decades, the field of paleontology has undergone some radical shifts. The application of new analytical equipment and experimental approaches, along with new fossil discoveries, have not only changed our understanding of life in the past, but also how we test hypotheses in a traditionally historical science. In relation to my work, the discovery of exceptionally preserved dinosaur skeletons with feathers has provided new insight into the evolution of birds and flight.</description>
     </item>
     

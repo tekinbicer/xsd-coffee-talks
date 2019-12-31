@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hpc on X-Ray Science Division Coffee Talk Announcements</title>
-    <link>http://example.org/tags/hpc/</link>
+    <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/hpc/</link>
     <description>Recent content in hpc on X-Ray Science Division Coffee Talk Announcements</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/hpc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/tags/hpc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exploring the Application-Specific Optimization Opportunities to Accelerate the GPU-based Tomographic Image Reconstruction</title>
-      <link>http://example.org/posts/post-005/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/post-005/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/post-005/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/post-005/</guid>
       <description>Abstract Modern HPC platforms get more and more complex and powerful. However, under such systems, coarse-grained parallelizations and implementations of specific applications barely achieve advertised optimal efficiency. The study on unleashing the power of existing HPC platforms is equally crucial as proposing new technologies and hardware. In this presentation, I will demonstrate how to explore architecture-aware application-specific optimization opportunities in GPU-based tomographic image reconstruction accelerations. We deliver a compression and parallelization solution for ART-based image reconstruction on GPUs (cuART).</description>
     </item>
     

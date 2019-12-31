@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>high-speed imaging on X-Ray Science Division Coffee Talk Announcements</title>
-    <link>http://example.org/tags/high-speed-imaging/</link>
+    <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/high-speed-imaging/</link>
     <description>Recent content in high-speed imaging on X-Ray Science Division Coffee Talk Announcements</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/high-speed-imaging/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/tags/high-speed-imaging/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ultrahigh-Speed X-ray View of Metal Spattering during Laser Processing</title>
-      <link>http://example.org/posts/prev-019/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/prev-019/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/prev-019/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/prev-019/</guid>
       <description>Abstract In laser welding, machining, and 3D printing of metals, incandescent droplets are frequently ejected from the laser’s path. This phenomenon is commonly known as spattering. Although these fireworks-like sparks are strikingly beautiful, they can cause structural defects—rough surfaces, craters, and porosity—resulting in the degradation of material properties. For years, researchers have been trying to understand the origins of spattering by doing fast optical imaging experiments. But, limited by their penetration power, visible light and infrared imaging could not capture the subsurface structural dynamics.</description>
     </item>
     

@@ -2,139 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on X-Ray Science Division Coffee Talk Announcements</title>
-    <link>http://example.org/tags/</link>
+    <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/</link>
     <description>Recent content in Tags on X-Ray Science Division Coffee Talk Announcements</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ptychography</title>
-      <link>http://example.org/tags/ptychography/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/ptychography/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/ptychography/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/ptychography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tomography</title>
-      <link>http://example.org/tags/tomography/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/tomography/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/tomography/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/tomography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>automation</title>
-      <link>http://example.org/tags/automation/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/automation/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/automation/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>globus</title>
-      <link>http://example.org/tags/globus/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/globus/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/globus/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/globus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>workflow</title>
-      <link>http://example.org/tags/workflow/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/workflow/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/workflow/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/workflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gpgpu</title>
-      <link>http://example.org/tags/gpgpu/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/gpgpu/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/gpgpu/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/gpgpu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hpc</title>
-      <link>http://example.org/tags/hpc/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/hpc/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/hpc/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/hpc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>multislice</title>
-      <link>http://example.org/tags/multislice/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/multislice/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/multislice/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/multislice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tomopy</title>
-      <link>http://example.org/tags/tomopy/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/tomopy/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/tomopy/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/tomopy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>high-speed imaging</title>
-      <link>http://example.org/tags/high-speed-imaging/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/high-speed-imaging/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/high-speed-imaging/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/high-speed-imaging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine learning</title>
-      <link>http://example.org/tags/machine-learning/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/machine-learning/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/machine-learning/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>segmentation</title>
-      <link>http://example.org/tags/segmentation/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/segmentation/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/segmentation/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fossil</title>
-      <link>http://example.org/tags/fossil/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/fossil/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/fossil/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/fossil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xrf</title>
-      <link>http://example.org/tags/xrf/</link>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/xrf/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/xrf/</guid>
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/tags/xrf/</guid>
       <description></description>
     </item>
     
