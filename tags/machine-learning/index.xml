@@ -21,5 +21,14 @@
       <description>Abstract The X-ray Fuel Spray research at Argonne National Laboratory is aimed at utilizing synchrotron X-ray diagnostics for providing insights into automotive fuel injection. One important task is to generate high-fidelity geometries or iso-surfaces of steel fuel injector nozzles from X-ray Computed Tomography measurements, to be used as inputs to realistic CFD simulations of fuel injector flow. These fuel nozzles contain 3D features between 5 - 500 micron and are imaged at a pixel resolution of 1 micron.</description>
     </item>
     
+    <item>
+      <title>An overview of super-resolution technique for X-ray imaging</title>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/prev-015/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/prev-015/</guid>
+      <description>Abstract In the past, image scale-up/super-resolution task was completed by making use of either interpolation method or the sparse coding based dictionary learning method. However, in the recent times, the popularity of machine learning tools such as neural networks to solve a wide range of imaging problems meant that even the super-resolution problem was resolved using the Convolutional Neural Networks (CNNs). In this talk, we will present some of the popular CNN-architectures that are relevant to scale-up the X-ray images.</description>
+    </item>
+    
   </channel>
 </rss>

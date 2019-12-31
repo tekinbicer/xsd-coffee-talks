@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>super resolution on X-Ray Science Division Coffee Talk Announcements</title>
+    <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/super-resolution/</link>
+    <description>Recent content in super resolution on X-Ray Science Division Coffee Talk Announcements</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/tags/super-resolution/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An overview of super-resolution technique for X-ray imaging</title>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/prev-015/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/prev-015/</guid>
+      <description>Abstract In the past, image scale-up/super-resolution task was completed by making use of either interpolation method or the sparse coding based dictionary learning method. However, in the recent times, the popularity of machine learning tools such as neural networks to solve a wide range of imaging problems meant that even the super-resolution problem was resolved using the Convolutional Neural Networks (CNNs). In this talk, we will present some of the popular CNN-architectures that are relevant to scale-up the X-ray images.</description>
+    </item>
+    
+  </channel>
+</rss>
