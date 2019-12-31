@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multislice on X-Ray Science Division Coffee Talk Announcements</title>
+    <link>http://example.org/tags/multislice/</link>
+    <description>Recent content in multislice on X-Ray Science Division Coffee Talk Announcements</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/multislice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using automatic differentiation to reconstruct beyond the depth-of-focus, and more</title>
+      <link>http://example.org/posts/post-004/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-004/</guid>
+      <description>Abstract Gradient-based optimization is a common and robust solution to many reconstruction problems in optics. Here, we demonstrate the use of this strategy in the 3D reconstruction of thick objects going beyond the depth-of-focus limit. By using the multislice propagation method, we created a physical model capable of predicting the detected image given a 3D object function and a certain experimental setup. A loss function is formulated to measure the disparity between the predicted and the experimentally measured data.</description>
+    </item>
+    
+  </channel>
+</rss>

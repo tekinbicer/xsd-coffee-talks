@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workflow on X-Ray Science Division Coffee Talk Announcements</title>
+    <link>http://example.org/tags/workflow/</link>
+    <description>Recent content in workflow on X-Ray Science Division Coffee Talk Announcements</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cyberinfrastructure for Autonomous Science</title>
+      <link>http://example.org/posts/post-006/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-006/</guid>
+      <description>Abstract Exponential increases in data volumes and velocities are overwhelming finite human capabilities. Continued progress in science and engineering demands that we automate a broad spectrum of currently manual research data manipulation tasks, from data transfer and sharing to acquisition, publication, and analysis. These needs are particularly evident in large-scale experimental science, in which researchers are typically granted short periods of instrument time and must maximize experiment efficiency as well as output data quality and accuracy.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>segmentation on X-Ray Science Division Coffee Talk Announcements</title>
+    <link>http://example.org/tags/segmentation/</link>
+    <description>Recent content in segmentation on X-Ray Science Division Coffee Talk Announcements</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/segmentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>High-fidelity geometry generation from CT data using convolutional neural networks</title>
+      <link>http://example.org/posts/prev-017/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prev-017/</guid>
+      <description>Abstract The X-ray Fuel Spray research at Argonne National Laboratory is aimed at utilizing synchrotron X-ray diagnostics for providing insights into automotive fuel injection. One important task is to generate high-fidelity geometries or iso-surfaces of steel fuel injector nozzles from X-ray Computed Tomography measurements, to be used as inputs to realistic CFD simulations of fuel injector flow. These fuel nozzles contain 3D features between 5 - 500 micron and are imaged at a pixel resolution of 1 micron.</description>
+    </item>
+    
+  </channel>
+</rss>

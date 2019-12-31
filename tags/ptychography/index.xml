@@ -21,5 +21,59 @@
       <description>Abstract Ptychography is a scanning coherent diffractive imaging technique that recovers the phase of a sample’s projection using phase-retrieval algorithm. Ptychography applied in a computed tomography setting has been able to provide a reconstruction with sub-20 nm resolution representing the sample’s refractive indices. Conventionally, to achieve the highest resolution of retrieved projections and tomographic reconstruction the technique relies on object’s dense lateral (scanning) and angular (rotational) sampling, respectively. However, such an approach comes with a cost of long acquisition time, large amount of collected data, and higher computational complexity required for the reconstruction.</description>
     </item>
     
+    <item>
+      <title>Exploring the Application-Specific Optimization Opportunities to Accelerate the GPU-based Tomographic Image Reconstruction</title>
+      <link>http://example.org/posts/post-005/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-005/</guid>
+      <description>Abstract Modern HPC platforms get more and more complex and powerful. However, under such systems, coarse-grained parallelizations and implementations of specific applications barely achieve advertised optimal efficiency. The study on unleashing the power of existing HPC platforms is equally crucial as proposing new technologies and hardware. In this presentation, I will demonstrate how to explore architecture-aware application-specific optimization opportunities in GPU-based tomographic image reconstruction accelerations. We deliver a compression and parallelization solution for ART-based image reconstruction on GPUs (cuART).</description>
+    </item>
+    
+    <item>
+      <title>Using automatic differentiation to reconstruct beyond the depth-of-focus, and more</title>
+      <link>http://example.org/posts/post-004/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-004/</guid>
+      <description>Abstract Gradient-based optimization is a common and robust solution to many reconstruction problems in optics. Here, we demonstrate the use of this strategy in the 3D reconstruction of thick objects going beyond the depth-of-focus limit. By using the multislice propagation method, we created a physical model capable of predicting the detected image given a 3D object function and a certain experimental setup. A loss function is formulated to measure the disparity between the predicted and the experimentally measured data.</description>
+    </item>
+    
+    <item>
+      <title>Effect of tilt on zone plate performance</title>
+      <link>http://example.org/posts/post-003/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-003/</guid>
+      <description>Abstract Fresnel zone plates are frequently used as focusing and imaging optics in x-ray microscopy, as they provide the ease of use of normal incidence optics. We consider here the effects of tilt misalignment on their optical performance, both in the thin optics limit and in the case of zone plates that are sufficiently thick that volume diffraction effects come into play. Using multislice propagation, we show that simple analytical models describe the tilt sensitivity of thin zone plates and the thickness at which volume diffraction must be considered, and examine numerically the performance of example zone plates for soft x-ray focusing at 0.</description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional tomographic reconstruction and phase retrieval of far-field coherent diffraction patterns</title>
+      <link>http://example.org/posts/post-001/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-001/</guid>
+      <description>Abstract An alternative numerical reconstruction algorithm for direct tomographic reconstruction of a sample’s refractive indices from the measured intensities of far-field coherent diffraction patterns will be presented. Formulation of the well-known phase-retrieval problem in ptychography in a tomographic framework which allows for simultaneous reconstruction of the illumination function and the sample’s refractive indices in three dimensions will be disscussed. Performance of proposed method with simulated and real datasets will be demonstrated.</description>
+    </item>
+    
+    <item>
+      <title>Hard X-ray ptychographic imaging with broadband illumination</title>
+      <link>http://example.org/posts/prev-020/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prev-020/</guid>
+      <description>Abstract As a multi-measurement scanning coherent diffraction imaging (CDI) method, X-ray ptychography is aimed to realize high spatial-resolution X-ray imaging beyond the resolution limit set by X-ray optics. A fundamental issue is that the high spatial resolution requires that the sample be illuminated by a high dose scale which is approximately inverse fourth power of the resolution, thus making higher fluxes very desirable to push the resolving power of CDI techniques.</description>
+    </item>
+    
+    <item>
+      <title>Phase Imaging beyond the Diffraction Limit with Electron Ptychography</title>
+      <link>http://example.org/posts/prev-018/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prev-018/</guid>
+      <description>Abstract Aberration-corrected optics have made scanning transmission electron microscopy a widespread and often essential tool for characterization at atomic scale. Traditionally, image resolution is dominated by beam energy and the numerical aperture of the lens, with state-of-the-art reaching ~0.47 angstrom at 300 keV. Here, by combining a new electron microscope pixel array detector with high dynamic range and ptychography to recover phase information from the full phase space, we achieved a spatial resolution at more than double the diffraction limit of the lens, and improved the dose efficiency compared with conventional imaging technique, simultaneously providing a four times faster acquisition, double the information limit and double the precision.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -2,16 +2,16 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Phase-Retrieval-Free Tomographic Alignment of Coherent Diffraction Patterns for Joint Ptycho-Tomography Problem - X-Ray Science Division Coffee Talk Announcements</title><link rel="icon" type="image/png" href=icons/myicon.png /><meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta property="og:title" content="Phase-Retrieval-Free Tomographic Alignment of Coherent Diffraction Patterns for Joint Ptycho-Tomography Problem" />
-<meta property="og:description" content="Speaker: Azat Slyamov" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Recent performance improvements to TomoPy - X-Ray Science Division Coffee Talk Announcements</title><link rel="icon" type="image/png" href=icons/myicon.png /><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="Recent performance improvements to TomoPy" />
+<meta property="og:description" content="Speaker: Daniel Jackson Ching" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://example.org/posts/post-007/" />
-<meta property="article:published_time" content="2019-12-16T00:00:00+00:00" />
-<meta property="article:modified_time" content="2019-12-16T00:00:00+00:00" />
+<meta property="og:url" content="http://example.org/posts/post-002/" />
+<meta property="article:published_time" content="2019-10-21T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-10-21T00:00:00+00:00" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Phase-Retrieval-Free Tomographic Alignment of Coherent Diffraction Patterns for Joint Ptycho-Tomography Problem"/>
-<meta name="twitter:description" content="Speaker: Azat Slyamov"/>
+<meta name="twitter:title" content="Recent performance improvements to TomoPy"/>
+<meta name="twitter:description" content="Speaker: Daniel Jackson Ching"/>
 <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300" rel="stylesheet">
 
 	<link rel="stylesheet" type="text/css" media="screen" href="http://example.org/css/normalize.css" />
@@ -61,15 +61,15 @@
 
 
 		<div class="post-header">
-			<h1 class="title">Phase-Retrieval-Free Tomographic Alignment of Coherent Diffraction Patterns for Joint Ptycho-Tomography Problem</h1>
-			<div class="meta">Posted at &mdash; Dec 16, 2019</div>
+			<h1 class="title">Recent performance improvements to TomoPy</h1>
+			<div class="meta">Posted at &mdash; Oct 21, 2019</div>
 		</div>
 
 		<div class="markdown">
 			<h3 id="abstract">Abstract</h3>
-<p>Ptychography is a scanning coherent diffractive imaging technique that recovers the phase of a sample’s projection using phase-retrieval algorithm. Ptychography applied in a computed tomography setting has been able to provide a reconstruction with sub-20 nm resolution representing the sample’s refractive indices. Conventionally, to achieve the highest resolution of retrieved projections and tomographic reconstruction the technique relies on object’s dense lateral (scanning) and angular (rotational) sampling, respectively. However, such an approach comes with a cost of long acquisition time, large amount of collected data, and higher computational complexity required for the reconstruction. Recently developed algorithms that solve ptychographic tomography as a joint problem have shown that direct reconstruction from a complete diffraction data can yield higher resolution with relaxed sampling requirements. In practice, prior to tomographic reconstruction some additional sub-problems like, phase-unwrapping and tomographic alignment of retrieved projections has to be solved. Implementing this sub-problems in a joint ptycho-tomography algorithm may result in higher computational time, slower convergence, etc. Here we present a fast pre-processing method based on differential intensity contrast for rapid alignment of projections.</p>
-<h3 id="bio">Bio</h3>
-<p>Azat is a visiting graduate student (Technical University of Denmark ) who is finishing his stay next week. He will present some of his work related to joint ptycho-tomography.</p>
+<p>We will present recent performance  changes related to TomoPy, an open-source Python package for tomographic data processing and image reconstruction. Notably, we have added a number of new reconstruction methods, added new benchmarking tools, and improved reconstruction speeds for various reconstruction algorithms by targeting Nvidia GPUs and specific supercomputing architectures.</p>
+<p>Starting in 2017, through the NERSC Exascale Science Applications Program (NESAP), we started updating the code-base to take advantage of modern compilers such as Clang and the Intel compiler; to target specific super-computing CPU architectures such as Edison, Haswell, and Knights Landing; and to utilize Nvidia GPUs through CUDA for certain tasks. By using a rotation-based and log-polar based implementations of forward and backward kernels on the GPU, previously determined to be inefficient on the CPU, TomoPy has seen computational speed improvements that exceed 500x. On HPC systems at NERSC, runtimes for 50 iterations on a single slice using iterative reconstruction algorithms such as SIRT or MLEM have dropped from approximately 6.5 hours down to approximately 40 seconds. In this presentation, we will compare the reconstruction speed and accuracy of the older implementations (TomoPy v1.1) with our performance enhanced implementations and the following newly implemented reconstruction algorithms: expectation maximization, total variation regularization, gradient descent and conjugate gradient descent.</p>
+<p>This work is a collaboration between Jonathan Madsen (NERSC), Viktor Nikitin (Max IV), and Doga Gursoy (APS).</p>
 
 		</div>
 
@@ -79,9 +79,7 @@
 					<nav class="nav tags">
 							<ul class="flat">
 								
-								<li><a href="/tags/ptychography">ptychography</a></li>
-								
-								<li><a href="/tags/tomography">tomography</a></li>
+								<li><a href="/tags/tomopy">tomopy</a></li>
 								
 							</ul>
 					</nav>

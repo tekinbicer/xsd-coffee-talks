@@ -2,16 +2,16 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Phase-Retrieval-Free Tomographic Alignment of Coherent Diffraction Patterns for Joint Ptycho-Tomography Problem - X-Ray Science Division Coffee Talk Announcements</title><link rel="icon" type="image/png" href=icons/myicon.png /><meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta property="og:title" content="Phase-Retrieval-Free Tomographic Alignment of Coherent Diffraction Patterns for Joint Ptycho-Tomography Problem" />
-<meta property="og:description" content="Speaker: Azat Slyamov" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Using automatic differentiation to reconstruct beyond the depth-of-focus, and more - X-Ray Science Division Coffee Talk Announcements</title><link rel="icon" type="image/png" href=icons/myicon.png /><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="Using automatic differentiation to reconstruct beyond the depth-of-focus, and more" />
+<meta property="og:description" content="Speaker: Ming Du" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://example.org/posts/post-007/" />
-<meta property="article:published_time" content="2019-12-16T00:00:00+00:00" />
-<meta property="article:modified_time" content="2019-12-16T00:00:00+00:00" />
+<meta property="og:url" content="http://example.org/posts/post-004/" />
+<meta property="article:published_time" content="2019-11-04T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-11-04T00:00:00+00:00" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Phase-Retrieval-Free Tomographic Alignment of Coherent Diffraction Patterns for Joint Ptycho-Tomography Problem"/>
-<meta name="twitter:description" content="Speaker: Azat Slyamov"/>
+<meta name="twitter:title" content="Using automatic differentiation to reconstruct beyond the depth-of-focus, and more"/>
+<meta name="twitter:description" content="Speaker: Ming Du"/>
 <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300" rel="stylesheet">
 
 	<link rel="stylesheet" type="text/css" media="screen" href="http://example.org/css/normalize.css" />
@@ -61,15 +61,16 @@
 
 
 		<div class="post-header">
-			<h1 class="title">Phase-Retrieval-Free Tomographic Alignment of Coherent Diffraction Patterns for Joint Ptycho-Tomography Problem</h1>
-			<div class="meta">Posted at &mdash; Dec 16, 2019</div>
+			<h1 class="title">Using automatic differentiation to reconstruct beyond the depth-of-focus, and more</h1>
+			<div class="meta">Posted at &mdash; Nov 4, 2019</div>
 		</div>
 
 		<div class="markdown">
 			<h3 id="abstract">Abstract</h3>
-<p>Ptychography is a scanning coherent diffractive imaging technique that recovers the phase of a sample’s projection using phase-retrieval algorithm. Ptychography applied in a computed tomography setting has been able to provide a reconstruction with sub-20 nm resolution representing the sample’s refractive indices. Conventionally, to achieve the highest resolution of retrieved projections and tomographic reconstruction the technique relies on object’s dense lateral (scanning) and angular (rotational) sampling, respectively. However, such an approach comes with a cost of long acquisition time, large amount of collected data, and higher computational complexity required for the reconstruction. Recently developed algorithms that solve ptychographic tomography as a joint problem have shown that direct reconstruction from a complete diffraction data can yield higher resolution with relaxed sampling requirements. In practice, prior to tomographic reconstruction some additional sub-problems like, phase-unwrapping and tomographic alignment of retrieved projections has to be solved. Implementing this sub-problems in a joint ptycho-tomography algorithm may result in higher computational time, slower convergence, etc. Here we present a fast pre-processing method based on differential intensity contrast for rapid alignment of projections.</p>
+<p>Gradient-based optimization is a common and robust solution to many reconstruction problems in optics. Here, we demonstrate the use of this strategy in the 3D reconstruction of thick objects going beyond the depth-of-focus limit. By using the multislice propagation method, we created a physical model capable of predicting the detected image given a 3D object function and a certain experimental setup. A loss function is formulated to measure the disparity between the predicted and the experimentally measured data. By minimizing the loss through the adjustment of the object function, we may end up with a good solution of the reconstructed sample. Instead of manually deriving the gradient of the loss function with regards to the object, we use automatic differentiation (AD), which is available in a wide range of machine-learning software, to compute the gradient using a computer. This not only saves the labor of differentiating through a large forward model, but makes the implementation easily adaptable among various experimental setups, such as near-field holography and far-field ptychography. Lastly, we will show the capability of AD for other applications, including the convenient switching of different noise models for 2D ptychography/holography, and the positional calibration of projection images in multi-distance holography.</p>
 <h3 id="bio">Bio</h3>
-<p>Azat is a visiting graduate student (Technical University of Denmark ) who is finishing his stay next week. He will present some of his work related to joint ptycho-tomography.</p>
+<p>Ming Du is a postdoctoral appointee at Photon Sciences, Argonne National Laboratory. He received his PhD in Material Science at Northwestern University.</p>
+<h5 id="presentationpresentationsmingdu-slides-coffeetalkpdf-pdf-file"><a href="../presentations/mingdu_slides_coffeetalk.pdf" title="PDF file">Presentation</a></h5>
 
 		</div>
 
@@ -79,9 +80,9 @@
 					<nav class="nav tags">
 							<ul class="flat">
 								
-								<li><a href="/tags/ptychography">ptychography</a></li>
+								<li><a href="/tags/multislice">multislice</a></li>
 								
-								<li><a href="/tags/tomography">tomography</a></li>
+								<li><a href="/tags/ptychography">ptychography</a></li>
 								
 							</ul>
 					</nav>

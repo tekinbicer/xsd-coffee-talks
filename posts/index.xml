@@ -22,13 +22,112 @@
     </item>
     
     <item>
-      <title>Hugo shortcodes</title>
+      <title>Cyberinfrastructure for Autonomous Science</title>
       <link>http://example.org/posts/post-006/</link>
-      <pubDate>Sun, 18 Mar 2018 12:13:36 +0530</pubDate>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/posts/post-006/</guid>
-      <description>Images   Dave Herring     Dave Herring   Github Gist  Youtube video   Tweet Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.co/X94FmYDEZJ #gohugo #golang @spf13 @bepsays
-&amp;mdash; GoHugo.io (@GoHugoIO) June 21, 2017  Vimeo   Instagram    View this post on Instagram        #Talitha #Getty #yacht in #fjærland #fjærlandsfjorden #sognefjorden #mundal #norway #landscape #panorama #travel #instagoodmyphoto #justgoshoot #peoplescreatives #visualsoflife #photography #photoshoot #photodaily #photogram #instagood #picoftheday #fjærland #photooftheday #pentax #nrksf #sognavis</description>
+      <description>Abstract Exponential increases in data volumes and velocities are overwhelming finite human capabilities. Continued progress in science and engineering demands that we automate a broad spectrum of currently manual research data manipulation tasks, from data transfer and sharing to acquisition, publication, and analysis. These needs are particularly evident in large-scale experimental science, in which researchers are typically granted short periods of instrument time and must maximize experiment efficiency as well as output data quality and accuracy.</description>
+    </item>
+    
+    <item>
+      <title>Exploring the Application-Specific Optimization Opportunities to Accelerate the GPU-based Tomographic Image Reconstruction</title>
+      <link>http://example.org/posts/post-005/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-005/</guid>
+      <description>Abstract Modern HPC platforms get more and more complex and powerful. However, under such systems, coarse-grained parallelizations and implementations of specific applications barely achieve advertised optimal efficiency. The study on unleashing the power of existing HPC platforms is equally crucial as proposing new technologies and hardware. In this presentation, I will demonstrate how to explore architecture-aware application-specific optimization opportunities in GPU-based tomographic image reconstruction accelerations. We deliver a compression and parallelization solution for ART-based image reconstruction on GPUs (cuART).</description>
+    </item>
+    
+    <item>
+      <title>Using automatic differentiation to reconstruct beyond the depth-of-focus, and more</title>
+      <link>http://example.org/posts/post-004/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-004/</guid>
+      <description>Abstract Gradient-based optimization is a common and robust solution to many reconstruction problems in optics. Here, we demonstrate the use of this strategy in the 3D reconstruction of thick objects going beyond the depth-of-focus limit. By using the multislice propagation method, we created a physical model capable of predicting the detected image given a 3D object function and a certain experimental setup. A loss function is formulated to measure the disparity between the predicted and the experimentally measured data.</description>
+    </item>
+    
+    <item>
+      <title>Effect of tilt on zone plate performance</title>
+      <link>http://example.org/posts/post-003/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-003/</guid>
+      <description>Abstract Fresnel zone plates are frequently used as focusing and imaging optics in x-ray microscopy, as they provide the ease of use of normal incidence optics. We consider here the effects of tilt misalignment on their optical performance, both in the thin optics limit and in the case of zone plates that are sufficiently thick that volume diffraction effects come into play. Using multislice propagation, we show that simple analytical models describe the tilt sensitivity of thin zone plates and the thickness at which volume diffraction must be considered, and examine numerically the performance of example zone plates for soft x-ray focusing at 0.</description>
+    </item>
+    
+    <item>
+      <title>Recent performance improvements to TomoPy</title>
+      <link>http://example.org/posts/post-002/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-002/</guid>
+      <description>Abstract We will present recent performance changes related to TomoPy, an open-source Python package for tomographic data processing and image reconstruction. Notably, we have added a number of new reconstruction methods, added new benchmarking tools, and improved reconstruction speeds for various reconstruction algorithms by targeting Nvidia GPUs and specific supercomputing architectures.
+Starting in 2017, through the NERSC Exascale Science Applications Program (NESAP), we started updating the code-base to take advantage of modern compilers such as Clang and the Intel compiler; to target specific super-computing CPU architectures such as Edison, Haswell, and Knights Landing; and to utilize Nvidia GPUs through CUDA for certain tasks.</description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional tomographic reconstruction and phase retrieval of far-field coherent diffraction patterns</title>
+      <link>http://example.org/posts/post-001/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-001/</guid>
+      <description>Abstract An alternative numerical reconstruction algorithm for direct tomographic reconstruction of a sample’s refractive indices from the measured intensities of far-field coherent diffraction patterns will be presented. Formulation of the well-known phase-retrieval problem in ptychography in a tomographic framework which allows for simultaneous reconstruction of the illumination function and the sample’s refractive indices in three dimensions will be disscussed. Performance of proposed method with simulated and real datasets will be demonstrated.</description>
+    </item>
+    
+    <item>
+      <title>Hard X-ray ptychographic imaging with broadband illumination</title>
+      <link>http://example.org/posts/prev-020/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prev-020/</guid>
+      <description>Abstract As a multi-measurement scanning coherent diffraction imaging (CDI) method, X-ray ptychography is aimed to realize high spatial-resolution X-ray imaging beyond the resolution limit set by X-ray optics. A fundamental issue is that the high spatial resolution requires that the sample be illuminated by a high dose scale which is approximately inverse fourth power of the resolution, thus making higher fluxes very desirable to push the resolving power of CDI techniques.</description>
+    </item>
+    
+    <item>
+      <title>Phase Imaging beyond the Diffraction Limit with Electron Ptychography</title>
+      <link>http://example.org/posts/prev-018/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prev-018/</guid>
+      <description>Abstract Aberration-corrected optics have made scanning transmission electron microscopy a widespread and often essential tool for characterization at atomic scale. Traditionally, image resolution is dominated by beam energy and the numerical aperture of the lens, with state-of-the-art reaching ~0.47 angstrom at 300 keV. Here, by combining a new electron microscope pixel array detector with high dynamic range and ptychography to recover phase information from the full phase space, we achieved a spatial resolution at more than double the diffraction limit of the lens, and improved the dose efficiency compared with conventional imaging technique, simultaneously providing a four times faster acquisition, double the information limit and double the precision.</description>
+    </item>
+    
+    <item>
+      <title>Ultrahigh-Speed X-ray View of Metal Spattering during Laser Processing</title>
+      <link>http://example.org/posts/prev-019/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prev-019/</guid>
+      <description>Abstract In laser welding, machining, and 3D printing of metals, incandescent droplets are frequently ejected from the laser’s path. This phenomenon is commonly known as spattering. Although these fireworks-like sparks are strikingly beautiful, they can cause structural defects—rough surfaces, craters, and porosity—resulting in the degradation of material properties. For years, researchers have been trying to understand the origins of spattering by doing fast optical imaging experiments. But, limited by their penetration power, visible light and infrared imaging could not capture the subsurface structural dynamics.</description>
+    </item>
+    
+    <item>
+      <title>High-fidelity geometry generation from CT data using convolutional neural networks</title>
+      <link>http://example.org/posts/prev-017/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prev-017/</guid>
+      <description>Abstract The X-ray Fuel Spray research at Argonne National Laboratory is aimed at utilizing synchrotron X-ray diagnostics for providing insights into automotive fuel injection. One important task is to generate high-fidelity geometries or iso-surfaces of steel fuel injector nozzles from X-ray Computed Tomography measurements, to be used as inputs to realistic CFD simulations of fuel injector flow. These fuel nozzles contain 3D features between 5 - 500 micron and are imaged at a pixel resolution of 1 micron.</description>
+    </item>
+    
+    <item>
+      <title>Exceptional fossils: feathers, soft tissues, and ancient molecules</title>
+      <link>http://example.org/posts/prev-016/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prev-016/</guid>
+      <description>Abstract Within the last two to three decades, the field of paleontology has undergone some radical shifts. The application of new analytical equipment and experimental approaches, along with new fossil discoveries, have not only changed our understanding of life in the past, but also how we test hypotheses in a traditionally historical science. In relation to my work, the discovery of exceptionally preserved dinosaur skeletons with feathers has provided new insight into the evolution of birds and flight.</description>
+    </item>
+    
+    <item>
+      <title>An overview of super-resolution technique for X-ray imaging</title>
+      <link>http://example.org/posts/prev-015/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prev-015/</guid>
+      <description>Abstract In the past, image scale-up/super-resolution task was completed by making use of either interpolation method or the sparse coding based dictionary learning method. However, in the recent times, the popularity of machine learning tools such as neural networks to solve a wide range of imaging problems meant that even the super-resolution problem was resolved using the Convolutional Neural Networks (CNNs). In this talk, we will present some of the popular CNN-architectures that are relevant to scale-up the X-ray images.</description>
     </item>
     
   </channel>

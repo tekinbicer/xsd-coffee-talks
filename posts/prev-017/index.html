@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>High-fidelity geometry generation from CT data using convolutional neural networks - X-Ray Science Division Coffee Talk Announcements</title><link rel="icon" type="image/png" href=icons/myicon.png /><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="High-fidelity geometry generation from CT data using convolutional neural networks" />
+<meta property="og:description" content="Speaker: Aniket Takewade" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/posts/prev-017/" />
+<meta property="article:published_time" content="2019-09-19T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-09-19T00:00:00+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="High-fidelity geometry generation from CT data using convolutional neural networks"/>
+<meta name="twitter:description" content="Speaker: Aniket Takewade"/>
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" media="screen" href="http://example.org/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="http://example.org/css/main.css" />
+	<link rel="stylesheet" type="text/css" href="http://example.org/css/custom.css" />
+	<link rel="stylesheet" type="text/css" href="http://example.org/css/dark.css"  />
+	<link rel="stylesheet" type="text/css" href="http://example.org/css/custom-dark.css"  />
+
+	<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+	<script src="http://example.org/js/main.js"></script>
+	<script src="http://example.org/js/abc.js"></script>
+	<script src="http://example.org/js/xyz.js"></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper post">
+		<div class="header">
+	<h1 class="site-title"><a href="http://example.org/">X-Ray Science Division Coffee Talk Announcements</a></h1>
+	<div class="site-description"><h2>Imaging, Microscopy and Computational X-Ray Science Groups&rsquo; Coffee Talks</h2><nav class="nav social">
+			<ul class="flat"><a href="https://github.com/tekinbicer" title="Github"><i data-feather="github"></i></a><a href="https://twitter.com/tekinbicer" title="Twitter"><i data-feather="twitter"></i></a></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/">Home</a>
+			</li>
+			
+			<li>
+				<a href="/posts">All posts</a>
+			</li>
+			
+			<li>
+				<a href="/about">About</a>
+			</li>
+			
+			<li>
+				<a href="/tags">Tags</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post-header">
+			<h1 class="title">High-fidelity geometry generation from CT data using convolutional neural networks</h1>
+			<div class="meta">Posted at &mdash; Sep 19, 2019</div>
+		</div>
+
+		<div class="markdown">
+			<h3 id="abstract">Abstract</h3>
+<p>The X-ray Fuel Spray research at Argonne National Laboratory is aimed at utilizing synchrotron X-ray diagnostics for providing insights into automotive fuel injection. One important task is to generate high-fidelity geometries or iso-surfaces of steel fuel injector nozzles from X-ray Computed Tomography measurements, to be used as inputs to realistic CFD simulations of fuel injector flow. These fuel nozzles contain 3D features between 5 - 500 micron and are imaged at a pixel resolution of 1 micron. The main bottleneck to automated generation of an STL geometry from X-ray CT data is the segmentation or surface determination process – conversion of the CT volume into a binary map that classifies each voxel as belonging to either injector metal or flow domain, accurately locating the metal surface at the transitions between these domains. Here, we describe our recent success in automating the segmentation process itself, which is challenging because various artifacts that arise from X-ray imaging and CT reconstruction confound the identification of threshold values needed for traditional segmentation algorithms. A convolutional neural network (CNN) coupled with a tailored loss function is implemented to achieve state-of-the-art accuracy in surface localization with limited manual intervention. Through data augmentation, the model can be trained on less than 30% of the slices drawn from two CT scans of different automotive injectors that were manually segmented and is tested on a third. Our architecture achieves state-of-the-art accuracy at lower computation time and GPU memory requirement compared to U-net, one of the most popular architectures for image segmentation.</p>
+<h3 id="bio">Bio</h3>
+<p>Dr. Aniket Tekawade obtained his PhD in Mechanical Engineering from Rensselaer Polytechnic Institute in August 2017. He is currently a Postdoctoral Researcher at Argonne National Laboratory’s Energy Systems Division and a user of the Advanced Photon Source (APS). His research involves using and developing X-ray diagnostic techniques to investigate automotive fuel injection, including time-resolved flow imaging as well as X-ray CT for metrology on fuel nozzles.</p>
+
+		</div>
+
+		<div class="post-tags">
+			
+				
+					<nav class="nav tags">
+							<ul class="flat">
+								
+								<li><a href="/tags/segmentation">segmentation</a></li>
+								
+								<li><a href="/tags/machine-learning">machine learning</a></li>
+								
+								<li><a href="/tags/tomography">tomography</a></li>
+								
+							</ul>
+					</nav>
+				
+			
+		</div>
+		<div id="disqus_thread"></div>
+<script type="text/javascript">
+	(function () {
+		
+		
+		if (window.location.hostname == "localhost")
+			return;
+
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		var disqus_shortname = 'localhost';
+		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+		Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div> © Copyright notice |  <a href="https://github.com/vividvilla/ezhil">Ezhil theme</a> | Built with <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+
+
+<script>feather.replace()</script>
+</body>
+</html>

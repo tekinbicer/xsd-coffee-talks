@@ -30,5 +30,113 @@
       <description></description>
     </item>
     
+    <item>
+      <title>automation</title>
+      <link>http://example.org/tags/automation/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>globus</title>
+      <link>http://example.org/tags/globus/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/globus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workflow</title>
+      <link>http://example.org/tags/workflow/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/workflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gpgpu</title>
+      <link>http://example.org/tags/gpgpu/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/gpgpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hpc</title>
+      <link>http://example.org/tags/hpc/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/hpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multislice</title>
+      <link>http://example.org/tags/multislice/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/multislice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tomopy</title>
+      <link>http://example.org/tags/tomopy/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/tomopy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>high-speed imaging</title>
+      <link>http://example.org/tags/high-speed-imaging/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/high-speed-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>http://example.org/tags/machine-learning/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>segmentation</title>
+      <link>http://example.org/tags/segmentation/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fossil</title>
+      <link>http://example.org/tags/fossil/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/fossil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xrf</title>
+      <link>http://example.org/tags/xrf/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/xrf/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
