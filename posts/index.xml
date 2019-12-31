@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on X-Ray Science Division Coffee Talk Announcements</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on X-Ray Science Division Coffee Talk Announcements</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phase-Retrieval-Free Tomographic Alignment of Coherent Diffraction Patterns for Joint Ptycho-Tomography Problem</title>
+      <link>http://example.org/posts/post-007/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-007/</guid>
+      <description>Abstract Ptychography is a scanning coherent diffractive imaging technique that recovers the phase of a sample’s projection using phase-retrieval algorithm. Ptychography applied in a computed tomography setting has been able to provide a reconstruction with sub-20 nm resolution representing the sample’s refractive indices. Conventionally, to achieve the highest resolution of retrieved projections and tomographic reconstruction the technique relies on object’s dense lateral (scanning) and angular (rotational) sampling, respectively. However, such an approach comes with a cost of long acquisition time, large amount of collected data, and higher computational complexity required for the reconstruction.</description>
+    </item>
+    
+    <item>
+      <title>Hugo shortcodes</title>
+      <link>http://example.org/posts/post-006/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:36 +0530</pubDate>
+      
+      <guid>http://example.org/posts/post-006/</guid>
+      <description>Images   Dave Herring     Dave Herring   Github Gist  Youtube video   Tweet Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.co/X94FmYDEZJ #gohugo #golang @spf13 @bepsays
+&amp;mdash; GoHugo.io (@GoHugoIO) June 21, 2017  Vimeo   Instagram    View this post on Instagram        #Talitha #Getty #yacht in #fjærland #fjærlandsfjorden #sognefjorden #mundal #norway #landscape #panorama #travel #instagoodmyphoto #justgoshoot #peoplescreatives #visualsoflife #photography #photoshoot #photodaily #photogram #instagood #picoftheday #fjærland #photooftheday #pentax #nrksf #sognavis</description>
+    </item>
+    
+  </channel>
+</rss>
