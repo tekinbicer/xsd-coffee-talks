@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/tags/ptychography/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learned priors for ptycho-tomography</title>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/20200217_selin/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/20200217_selin/</guid>
+      <description>Abstract The extension of ptychography into three dimensions for reconstructing the object’s refractive properties has received a great deal of interest in recent years. The conventional way to recover the refractive properties of the 3D object is to solve the ptychography problem first which is then followed by a 3D tomographic reconstruction. The drawback of this sequential approach is that current ptychographic phase retrieval algorithms require significant overlap between illuminations.</description>
+    </item>
     
     <item>
       <title>Phase-Retrieval-Free Tomographic Alignment of Coherent Diffraction Patterns for Joint Ptycho-Tomography Problem</title>

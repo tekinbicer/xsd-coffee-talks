@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Learned priors for ptycho-tomography - X-Ray Science Division Coffee Talk Announcements</title><link rel="icon" type="image/png" href=icons/myicon.png /><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="Learned priors for ptycho-tomography" />
+<meta property="og:description" content="Speaker: Selin Aslan" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://tekinbicer.github.io/xsd-coffee-talks/posts/20200217_selin/" />
+<meta property="article:published_time" content="2020-02-17T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-02-17T00:00:00+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Learned priors for ptycho-tomography"/>
+<meta name="twitter:description" content="Speaker: Selin Aslan"/>
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" media="screen" href="https://tekinbicer.github.io/xsd-coffee-talks/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://tekinbicer.github.io/xsd-coffee-talks/css/main.css" />
+	<link rel="stylesheet" type="text/css" href="https://tekinbicer.github.io/xsd-coffee-talks/css/custom.css" />
+	<link rel="stylesheet" type="text/css" href="https://tekinbicer.github.io/xsd-coffee-talks/css/dark.css"  />
+	<link rel="stylesheet" type="text/css" href="https://tekinbicer.github.io/xsd-coffee-talks/css/custom-dark.css"  />
+
+	<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+	<script src="https://tekinbicer.github.io/xsd-coffee-talks/js/main.js"></script>
+	<script src="https://tekinbicer.github.io/xsd-coffee-talks/js/abc.js"></script>
+	<script src="https://tekinbicer.github.io/xsd-coffee-talks/js/xyz.js"></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper post">
+		<div class="header">
+	<h1 class="site-title"><a href="https://tekinbicer.github.io/xsd-coffee-talks/">X-Ray Science Division Coffee Talk Announcements</a></h1>
+	<div class="site-description"><h2>Imaging, Microscopy and Computational X-Ray Science Groups&rsquo; Coffee Talks</h2><nav class="nav social">
+			<ul class="flat"><a href="https://github.com/tekinbicer/xsd-coffee-talks" title="Github"><i data-feather="github"></i></a><a href="https://twitter.com/tekinbicer" title="Twitter"><i data-feather="twitter"></i></a></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/xsd-coffee-talks/">Home</a>
+			</li>
+			
+			<li>
+				<a href="/xsd-coffee-talks/posts">All posts</a>
+			</li>
+			
+			<li>
+				<a href="/xsd-coffee-talks/about">About</a>
+			</li>
+			
+			<li>
+				<a href="/xsd-coffee-talks/tags">Tags</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post-header">
+			<h1 class="title">Learned priors for ptycho-tomography</h1>
+			<div class="meta">Posted at &mdash; Feb 17, 2020</div>
+		</div>
+
+		<div class="markdown">
+			<h3 id="abstract">Abstract</h3>
+<p>The extension of ptychography into three dimensions for reconstructing the object’s refractive properties has received a great deal of interest in recent years. The conventional way to recover the refractive properties of the 3D object is to solve the ptychography problem first which is then followed by a 3D tomographic reconstruction. The drawback of this sequential approach is that current ptychographic phase retrieval algorithms require significant overlap between illuminations.</p>
+<p>In a recent study, we used the alternating direction method of multipliers (ADMM) a generic reconstruction framework to efficiently solve the joint ptycho-tomography problem. In a follow-up work, we proposed a general statistical model for the joint problem under significantly reduced photon-budget where we used a sparse prior defined in terms of the total variation (TV).</p>
+<p>Choosing an appropriate prior for the model has been a topic of many research papers in image processing. While model based methods solve the optimization problem with an explicit regularization such as TV, the learning based methods aim to learn a prior that maps noisy reconstructions to a desirable image.</p>
+<p>Due to its great success in improving the quality of low-dose images, we incorporate learned priors into the generic reconstruction framework for the joint ptycho-tomography problem where we split the ptychography, tomography problem and the denoiser into three subproblems.</p>
+<h3 id="bio">Bio</h3>
+<p>Selin Aslan joined Argonne in 2018 as a postdoctoral appointee in the X-ray Science Division of the Advanced Photon Source (APS). She received her Ph.D in Mathematics from Virginia Tech in 2018. She received her M.S in Applied and Computational Mathematics from Rochester Institute of Technology as a Fulbirght Scholar in 2013. Her research focus has always been on computational imaging. Recently, she has been working on developing efficient algorithms for the joint ptycho-tomography problem.</p>
+
+		</div>
+
+		<div class="post-tags">
+			
+				
+					<nav class="nav tags">
+							<ul class="flat">
+								
+								<li><a href="/xsd-coffee-talks/tags/tomography">tomography</a></li>
+								
+								<li><a href="/xsd-coffee-talks/tags/ptychography">ptychography</a></li>
+								
+							</ul>
+					</nav>
+				
+			
+		</div>
+		</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div> © Copyright notice |  <a href="https://github.com/vividvilla/ezhil">Ezhil theme</a> | Built with <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+
+
+<script>feather.replace()</script>
+</body>
+</html>
