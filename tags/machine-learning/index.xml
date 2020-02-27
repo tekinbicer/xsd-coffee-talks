@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>machine learning on X-Ray Science Division Coffee Talk Announcements</title>
+    <title>machine-learning on X-Ray Science Division Coffee Talk Announcements</title>
     <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/machine-learning/</link>
-    <description>Recent content in machine learning on X-Ray Science Division Coffee Talk Announcements</description>
+    <description>Recent content in machine-learning on X-Ray Science Division Coffee Talk Announcements</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advancing X-ray Tomography using Artificial Intelligence (TomoGAN)</title>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/20200302_zhengchun/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/20200302_zhengchun/</guid>
+      <description>Abstract We apply artificial intelligence techniques to advance X-ray tomography imaging experiments at synchrotron light sources, in both post processing and online (or near real-time streaming) processing scenarios. We also explore its applicability in practical experiment configurations, for example in scenarios in which a deep learning model is trained on a supercomputer but executed for inference on an edge computing device (e.g., Google edge TPU, NVIDIA Jetson). Specifically, we share three aspects of deep learning for X-ray tomography in this talks: (1) TomoGAN, a denoising technique based on generative adversarial networks, for improving the quality of reconstructed images in low-dose imaging conditions.</description>
+    </item>
     
     <item>
       <title>High-fidelity geometry generation from CT data using convolutional neural networks</title>

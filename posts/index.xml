@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advancing X-ray Tomography using Artificial Intelligence (TomoGAN)</title>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/20200302_zhengchun/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/20200302_zhengchun/</guid>
+      <description>Abstract We apply artificial intelligence techniques to advance X-ray tomography imaging experiments at synchrotron light sources, in both post processing and online (or near real-time streaming) processing scenarios. We also explore its applicability in practical experiment configurations, for example in scenarios in which a deep learning model is trained on a supercomputer but executed for inference on an edge computing device (e.g., Google edge TPU, NVIDIA Jetson). Specifically, we share three aspects of deep learning for X-ray tomography in this talks: (1) TomoGAN, a denoising technique based on generative adversarial networks, for improving the quality of reconstructed images in low-dose imaging conditions.</description>
+    </item>
     
     <item>
       <title>Learned priors for ptycho-tomography</title>
