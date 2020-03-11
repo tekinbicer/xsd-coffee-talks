@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>segmentation on X-Ray Science Division Coffee Talk Announcements</title>
-    <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/segmentation/</link>
-    <description>Recent content in segmentation on X-Ray Science Division Coffee Talk Announcements</description>
+    <title>battery on X-Ray Science Division Coffee Talk Announcements</title>
+    <link>https://tekinbicer.github.io/xsd-coffee-talks/tags/battery/</link>
+    <description>Recent content in battery on X-Ray Science Division Coffee Talk Announcements</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/tags/segmentation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/tags/battery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/20200316_zeliang/</guid>
       <description>Abstract The batteries are complex and dynamic electrochemical systems. We develop Operando experiments with robust X-ray tomography for commercial Li-ion battery and developing high energy Li-O2 batteries to study their dynamic aspects, which links tightly to the performance. Such experiments generate massively tomography data which should be beforehand segmented then injected into the battery models or other morphological analysis. To alleviate the tedious and repetitive segmentation work, the Convolutional Neural Network is investigated and proposed as an efficient semi-automatical tool.</description>
-    </item>
-    
-    <item>
-      <title>High-fidelity geometry generation from CT data using convolutional neural networks</title>
-      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/prev-017/</link>
-      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/prev-017/</guid>
-      <description>Abstract The X-ray Fuel Spray research at Argonne National Laboratory is aimed at utilizing synchrotron X-ray diagnostics for providing insights into automotive fuel injection. One important task is to generate high-fidelity geometries or iso-surfaces of steel fuel injector nozzles from X-ray Computed Tomography measurements, to be used as inputs to realistic CFD simulations of fuel injector flow. These fuel nozzles contain 3D features between 5 - 500 micron and are imaged at a pixel resolution of 1 micron.</description>
     </item>
     
   </channel>

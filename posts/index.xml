@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tekinbicer.github.io/xsd-coffee-talks/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Decrypting the Convolutional Neural Network for Multi-phases Semantic Segmentation of Battery Tomography Data</title>
+      <link>https://tekinbicer.github.io/xsd-coffee-talks/posts/20200316_zeliang/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tekinbicer.github.io/xsd-coffee-talks/posts/20200316_zeliang/</guid>
+      <description>Abstract The batteries are complex and dynamic electrochemical systems. We develop Operando experiments with robust X-ray tomography for commercial Li-ion battery and developing high energy Li-O2 batteries to study their dynamic aspects, which links tightly to the performance. Such experiments generate massively tomography data which should be beforehand segmented then injected into the battery models or other morphological analysis. To alleviate the tedious and repetitive segmentation work, the Convolutional Neural Network is investigated and proposed as an efficient semi-automatical tool.</description>
+    </item>
     
     <item>
       <title>Advancing X-ray Tomography using Artificial Intelligence (TomoGAN)</title>
